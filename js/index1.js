@@ -1,5 +1,6 @@
 window.onload = function(){
-    waterFall('.wrap','.item-box')
+    //waterFall('.wrap','.item-box')
+    
 }
 
 function waterFall(fatherNode,childrenNode){
